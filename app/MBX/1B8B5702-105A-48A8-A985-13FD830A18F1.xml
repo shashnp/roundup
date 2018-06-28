@@ -1,0 +1,39 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="1B8B5702-105A-48A8-A985-13FD830A18F1" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="5">
+    <control controlID="954CBA17-6F5E-42B3-B72F-3DF046CA5F64" controlTypeID="Label" x="143" y="135" w="72" h="38" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>LOGO</text>
+      <textColor>4294967295</textColor>
+      <textSize>28</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="009CD99F-6B7C-4B3D-8D05-B68CEF1708C2" controlTypeID="Image" x="0" y="0" w="375" h="47" zOrder="1">
+      <URL>80F57F706A1DCB71694914CA5E299062.png</URL>
+    </control>
+    <control controlID="D19C7EA9-F8D9-4330-A2B8-ABC9EF0AA415" controlTypeID="Shape" x="0" y="47" w="375" h="620" zOrder="2">
+      <color>4278229452</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7E9B02C0-88FD-445C-9390-7CA1D67E2E90" controlTypeID="Image" x="0" y="0" w="375" h="47" zOrder="3">
+      <URL>80F57F706A1DCB71694914CA5E299062.png</URL>
+    </control>
+    <control controlID="D9E91D4D-B723-4EFB-9B24-6D1A26AC574C" controlTypeID="Timer" x="-97" y="246" w="46" h="46" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="54CCA2FB-96F9-4072-A791-C0BABD98F95B" linkType="ltPageLink" isApplyIncludePage="False" title="Page">
+          <area shape="0" alt="" ID="{8D39982F-F883-4764-86BF-55A56FFAFBEA}" coords="(0,0,46,46)"/>
+        </link>
+      </links>
+      <groupChildrenDescriptors/>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

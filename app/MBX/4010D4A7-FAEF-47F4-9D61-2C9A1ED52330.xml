@@ -1,0 +1,325 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="4010D4A7-FAEF-47F4-9D61-2C9A1ED52330" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="18">
+    <control controlID="037529DA-287D-49B5-AF8E-4A62D2BD3AC0" controlTypeID="Label" x="24" y="119" w="307" h="54" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>RoundupDonate</text>
+      <textColor>4285909628</textColor>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F66592FB-88D3-4C62-A495-24690DE70862" controlTypeID="Shape" x="0" y="47" w="375" h="586" zOrder="1">
+      <color>4294572537</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1DB5CD50-8272-4F1C-96B6-1DA369EDF391" controlTypeID="Image" x="0" y="0" w="375" h="47" zOrder="2">
+      <URL>80F57F706A1DCB71694914CA5E299062.png</URL>
+    </control>
+    <control controlID="80293B38-4F68-4EA3-B42B-1D4B592B1FFC" controlTypeID="Image" x="0" y="618" w="375" h="58" zOrder="3">
+      <URL>0BB3E4D69C541835B2A4BDE2770308EF.png</URL>
+    </control>
+    <control controlID="FE615EC8-50FF-4ABA-B208-7AB9566994CC" controlTypeID="Label" x="50" y="58" w="247" h="27" zOrder="4">
+      <font family="Nirmala+UI" displayName="Nirmala+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>John+Doe+Checking+Account</text>
+      <textColor>4279335626</textColor>
+      <textSize>20</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2FBC454A-6BB8-4CFD-9CFB-2AAB2331C503" controlTypeID="Table" x="0" y="154" w="375" h="190" zOrder="5">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Description%09Charge%091%2F20%2F2018+-+ShopRite%09$11.67%091%2F20%2F2018+-+Donation%09$.33%092%2F5%2F2018+-+CVS%09$12.69%092%2F5%2F2018+-+Donation%09$.31%09Total+-+Charges%09$25.00</text>
+      <textSize>14</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <thickness>1</thickness>
+      <dashMode>SdSolid</dashMode>
+      <tableStyle>tsNone</tableStyle>
+      <fontFamily/>
+      <fontWeight>Regular</fontWeight>
+      <textStyles>[]</textStyles>
+      <cells>
+        <cell rows="0,0" cols="0,0">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>Description</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="1,1">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>Charge</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="0,0">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>1%2F20%2F2018+-+ShopRite</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="1,1">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>$11.67</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="2,2" cols="0,0">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>1%2F20%2F2018+-+Donation</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="2,2" cols="1,1">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>$.33</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="3,3" cols="0,0">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>2%2F5%2F2018+-+CVS</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="3,3" cols="1,1">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>$12.69</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="4,4" cols="0,0">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <cellBorderVisible>True</cellBorderVisible>
+          <editIndex>21</editIndex>
+          <text>2%2F5%2F2018+-+Donation</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="4,4" cols="1,1">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>$.31</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="5,5" cols="0,0">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>Total+-+Charges</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="5,5" cols="1,1">
+          <fontFamily>Segoe+UI</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>$25.00</text>
+          <textHeight>28</textHeight>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+      </cells>
+      <rows>
+        <row height="30">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>True</isAutoRowHeight>
+        </row>
+        <row height="30">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>True</isAutoRowHeight>
+        </row>
+        <row height="31">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>False</isAutoRowHeight>
+        </row>
+        <row height="32">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>False</isAutoRowHeight>
+        </row>
+        <row height="31">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>False</isAutoRowHeight>
+        </row>
+        <row height="36">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>False</isAutoRowHeight>
+        </row>
+      </rows>
+      <cols>
+        <col width="183">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+        </col>
+        <col width="192">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+        </col>
+      </cols>
+    </control>
+    <control controlID="C524B14B-19E6-4B88-AA8A-CE584B5D2D4E" controlTypeID="Label" x="102" y="117" w="172" h="27" zOrder="6">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Recent+Transactions</text>
+      <textColor>4279335626</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A50BDF4D-B674-468F-B55F-349C0984DB43" controlTypeID="Label" x="92" y="88" w="169" h="19" zOrder="7">
+      <font family="Nirmala+UI" displayName="Nirmala+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Available+Balance%3A+$2000.00</text>
+      <textColor>4279335626</textColor>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="509E0044-0281-443E-99CF-DF7404A9BEB5" controlTypeID="Label" x="81" y="384" w="199" h="24" zOrder="8">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Total+RoundUp+Donation%3A+</text>
+      <textColor>4279335626</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4277F296-FED5-421B-92FE-399C1A1EB833" controlTypeID="Label" x="151" y="408" w="58" h="43" zOrder="9">
+      <color>15000804</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>$.64</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2852E133-1486-4F0E-A6BD-EAD128BB1F77" controlTypeID="Icon" x="12" y="220" w="18" h="18" zOrder="10">
+      <color>4294901760</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62344</iconCode>
+      </icon>
+      <URL>9DA58F6FCBD77A56BA4CDD80AFFCE333.svg</URL>
+    </control>
+    <control controlID="02728F72-7964-40E3-8EC4-843A2DABF937" controlTypeID="Icon" x="12" y="283" w="18" h="18" zOrder="11">
+      <color>4294901760</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62344</iconCode>
+      </icon>
+      <URL>9DA58F6FCBD77A56BA4CDD80AFFCE333.svg</URL>
+    </control>
+    <control controlID="213EBA5B-AE5D-4B5D-A7AA-601F8C8B4061" controlTypeID="TextArea" x="92" y="464" w="189" h="23" zOrder="12">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Additional+amount+to+donate</text>
+      <textColor>4279335626</textColor>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="AA084086-71CF-4249-BA6D-E2BDC8AB1CD1" controlTypeID="Icon" x="257" y="556" w="24" h="24" zOrder="13">
+      <color>4294967295</color>
+      <remarkText>Tweet+Donation</remarkText>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62019</iconCode>
+      </icon>
+      <URL>6E397F998770B38A343BB5B849DF19E9.svg</URL>
+    </control>
+    <control controlID="525572DC-BB1D-42B2-A157-C9CDC4095592" controlTypeID="Button" x="12" y="544" w="171" h="42" zOrder="14">
+      <color>4292335575</color>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Cancel</text>
+      <textColor>4284374622</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="760D55B7-A1F9-4907-9193-9AB05A915D91" controlTypeID="Button" x="193" y="544" w="171" h="42" zOrder="15">
+      <color>4279335626</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F43EB803-62E2-4788-A75D-0CC256EDC445" linkType="ltPageLink" isApplyIncludePage="False" title="AfterPayment">
+          <area shape="0" alt="" ID="{8A879269-22AE-4D58-A7C3-4F0942285F7D}" coords="(0,0,171,42)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Pay</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E06326EC-7BAB-4CD8-96B0-FEF91F942919" controlTypeID="TextInput" x="120" y="487" w="117" h="39" zOrder="16">
+      <color>4294111986</color>
+      <borderVisible>False</borderVisible>
+      <font family="Nirmala+UI" displayName="Nirmala+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>$3.00</text>
+      <textAlign>HaRight</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FB8E59FE-6145-439A-8597-2D45ABEE6FC1" controlTypeID="Line" x="140" y="526" w="100" h="1" zOrder="17">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(50,0)</controlPoint>
+      <startPoint>(0,0)</startPoint>
+      <endPoint>(100,0)</endPoint>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

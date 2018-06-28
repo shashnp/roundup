@@ -1,0 +1,233 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="352276CC-CDB1-4C97-BFBE-4C75EAFEBFE2" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="20">
+    <control controlID="7A62E1E0-C093-49E9-9814-15EEB5C6764B" controlTypeID="Image" x="0" y="0" w="375" h="667" zOrder="0">
+      <URL>ECF751B3C6F86D2D4BC12F276679DBEC.png</URL>
+    </control>
+    <control controlID="B215F0F9-1387-4292-BF0B-60C2F188A74A" controlTypeID="ModalScreen" x="0" y="0" w="375" h="667" zOrder="1">
+      <color>3120562176</color>
+    </control>
+    <control controlID="83ECF96D-7D4A-4DD2-AB59-24D9E3D5900F" controlTypeID="Image" x="28" y="91" w="320" h="322" zOrder="2">
+      <URL>5737F0E64A7242A9536C4617DB0BC3CE.png</URL>
+    </control>
+    <control controlID="316C515E-E77B-4980-9E56-13D64B867B6C" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="3">
+      <color>0</color>
+      <ForegroundColor>4278190080</ForegroundColor>
+      <IsAutoTextColor>False</IsAutoTextColor>
+    </control>
+    <control controlID="F0E09E62-6EC9-4C80-AD2E-A983110AD459" controlTypeID="Shape" x="28" y="410" w="320" h="7" zOrder="4">
+      <color>4290559164</color>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9F0B3977-015F-40D0-A27A-E30846712FC2" controlTypeID="Shape" x="29" y="411" w="10" h="6" zOrder="5">
+      <color>4287137928</color>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B51595EB-5257-4373-B1C2-3FD89F4EFA27" controlTypeID="Icon" x="21" y="405" w="18" h="18" zOrder="6">
+      <color>4285909628</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61979</iconCode>
+      </icon>
+      <URL>FBDD56452F7C5E2A186B42484A1CF33E.svg</URL>
+    </control>
+    <control controlID="2F2408F0-5BB4-4545-9032-4D6D8F558D5B" controlTypeID="Label" x="29" y="428" w="26" h="16" zOrder="7">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>00%3A11</text>
+      <textColor>4294111986</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3559ECDF-778A-48F7-8C0A-509FA66D7E9D" controlTypeID="Label" x="308" y="428" w="32" h="16" zOrder="8">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>-58%3A23</text>
+      <textColor>4294111986</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C4D41785-AF00-4B62-B9D3-4C685B9141CE" controlTypeID="Label" x="122" y="443" w="117" h="22" zOrder="9">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Nap+after+lunch</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="39FBDA39-2D71-40B8-94BC-A9AE2239BA2D" controlTypeID="Icon" x="164" y="492" w="49" h="49" zOrder="10">
+      <color>4294967295</color>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{195F8F4E-EFD7-405D-A7C6-D37CDA77BAC9}" coords="(0,0,49,49)"/>
+          <events title="">
+            <event eventType="atLoad" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="9F0B3977-015F-40D0-A27A-E30846712FC2" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Resize" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="12000" varType="4" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="ResizeDirection" value="0" varType="3" description=""/>
+                    <param name="ValueMode" value="0" varType="3" description=""/>
+                    <param name="FromWidth" value="0" varType="3" description=""/>
+                    <param name="FromHeight" value="0" varType="3" description=""/>
+                    <param name="ToWidth" value="320" varType="4" description=""/>
+                    <param name="ToHeight" value="0" varType="3" description=""/>
+                    <param name="ToX" value="0" varType="3" description=""/>
+                    <param name="ToY" value="0" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+                <target targetID="B51595EB-5257-4373-B1C2-3FD89F4EFA27" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Move" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="15000" varType="4" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="MoveMode" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="FromX" value="0" varType="3" description=""/>
+                    <param name="FromY" value="0" varType="3" description=""/>
+                    <param name="ToX" value="0" varType="3" description=""/>
+                    <param name="ToY" value="0" varType="3" description=""/>
+                    <param name="ByX" value="420" varType="256" description=""/>
+                    <param name="ByY" value="0" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                    <param name="MovePlaceVert" value="3" varType="3" description=""/>
+                    <param name="MovePlaceHori" value="1" varType="3" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62584</iconCode>
+      </icon>
+      <URL>9C5D54E8152D0F872A2374FC975D8975.svg</URL>
+    </control>
+    <control controlID="908E9BC7-5397-4DE9-AE52-4952CC365A72" controlTypeID="Icon" x="74" y="500" w="33" h="33" zOrder="11">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIcoFont</iconFontName>
+        <iconCode>59021</iconCode>
+      </icon>
+      <URL>B50029282637CCE0123400A706E80991.svg</URL>
+    </control>
+    <control controlID="3F929379-8C52-4AB9-B47F-B186872E8119" controlTypeID="Icon" x="270" y="500" w="33" h="33" zOrder="12">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIcoFont</iconFontName>
+        <iconCode>59020</iconCode>
+      </icon>
+      <URL>039069A9D14D7E9E2BA25F82DEC957DF.svg</URL>
+    </control>
+    <control controlID="7831599F-2731-4AED-A01C-91A85A951399" controlTypeID="Icon" x="28" y="602" w="40" h="40" zOrder="13">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62645</iconCode>
+      </icon>
+      <URL>40E6372C00B801A2DB7A7C5B46FD5410.svg</URL>
+    </control>
+    <control controlID="F23A130F-3688-46B7-B6C8-80CBA93DB44D" controlTypeID="IconButton2" x="312" y="602" w="41" h="41" zOrder="14">
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="837F7859-3E8E-4D6B-AB40-0AD62FFB515B" linkType="ltPageLink" isApplyIncludePage="False" title="Share">
+          <area shape="0" alt="" ID="{7A90E7A0-2A57-4F5E-BB73-AC8F569CB64F}" coords="(0,0,41,41)"/>
+        </link>
+      </links>
+      <groupChildrenDescriptors>
+        <control controlID="532995DE-CECE-487C-9BB3-44B1AA5AF41C" controlTypeID="Shape" x="0" y="0" w="41" h="41" zOrder="0">
+          <color>822083583</color>
+          <borderVisible>False</borderVisible>
+          <canMove>False</canMove>
+          <alias>shape</alias>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+        <control controlID="F64A00DB-E2C8-49F4-9686-A7353C28595D" controlTypeID="Icon" x="8" y="8" w="26" h="26" zOrder="1">
+          <color>4294967295</color>
+          <canMove>False</canMove>
+          <alias>icon</alias>
+          <icon>
+            <ID/>
+            <iconFontName>jdFontAwesome</iconFontName>
+            <iconCode>61509</iconCode>
+          </icon>
+          <URL>CC2F86A65A0587F585F9C4890BF507D1.svg</URL>
+        </control>
+        <control controlID="6347B4A4-202F-42DA-8993-98C5271CB544" controlTypeID="Label" x="4" y="2" w="27" h="16" zOrder="2">
+          <canMove>False</canMove>
+          <alias>label</alias>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Label</text>
+          <textSize>12</textSize>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="1B2B1E4A-B404-4A03-85D0-95D2D27E908E" controlTypeID="Shape" x="26" y="0" w="15" h="14" zOrder="3">
+          <color>4294901760</color>
+          <borderVisible>False</borderVisible>
+          <canMove>False</canMove>
+          <alias>alarm</alias>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>2</text>
+          <textColor>4294967295</textColor>
+          <textSize>9</textSize>
+          <selectedIndex>-1</selectedIndex>
+          <radius>100</radius>
+          <radiusIsPercent>True</radiusIsPercent>
+        </control>
+      </groupChildrenDescriptors>
+      <style>ibsRectangle</style>
+      <iconSize>26</iconSize>
+    </control>
+    <control controlID="B7023DA8-CCC0-4F8A-AC2E-1A83FA13D8F6" controlTypeID="Icon" x="23" y="34" w="24" h="24" zOrder="15">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="5D2FBA44-1826-4591-9E6E-B8E3F1DB76C0" linkType="ltPageLink" isApplyIncludePage="False" title="Nap">
+          <area shape="0" alt="" ID="{1606D470-E2BE-4195-A292-A6BCE6736E72}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61731</iconCode>
+      </icon>
+      <URL>01C687310F9F3CD70AEFE872B950F27F.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,18 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="3CF34639-4DA2-4C8B-9AFF-5F1076CB1B86" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="1">
+    <control controlID="B7F72C58-DC4D-4C22-B4BA-6DD119E57AF2" controlTypeID="Label" x="189" y="319" w="18" h="19" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>On</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

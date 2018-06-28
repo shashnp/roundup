@@ -1,0 +1,97 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="F43EB803-62E2-4788-A75D-0CC256EDC445" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="10">
+    <control controlID="5B78FEB3-27C6-4574-8A17-2F51576C54E7" controlTypeID="Image" x="0" y="0" w="375" h="47" zOrder="0">
+      <URL>80F57F706A1DCB71694914CA5E299062.png</URL>
+    </control>
+    <control controlID="4E371F55-EAE4-4763-B9E4-597A5DED1A79" controlTypeID="Label" x="88" y="108" w="199" h="24" zOrder="1">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Total+RoundUp+Donation%3A+</text>
+      <textColor>4279335626</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C332F7CC-A0A5-48DF-A16F-D837797701CC" controlTypeID="Label" x="136" y="132" w="75" h="43" zOrder="2">
+      <color>15000804</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>$3.64</text>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="255A3B79-2C15-462B-ABCC-210A31D96A2D" controlTypeID="Label" x="62" y="63" w="252" h="27" zOrder="3">
+      <font family="Nirmala+UI" displayName="Nirmala+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Thank+You+for+Your+Donation</text>
+      <textColor>4279335626</textColor>
+      <textSize>20</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7DED821A-C3D9-4F25-A16C-BA16F49EC1A0" controlTypeID="Icon" x="105" y="230" w="24" h="24" zOrder="4">
+      <color>4278190182</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61569</iconCode>
+      </icon>
+      <URL>520A776503D70E7FC53BE8D209CC96C1.svg</URL>
+    </control>
+    <control controlID="9C98FD27-D2EB-4552-A59A-EA3F39B4C60F" controlTypeID="Label" x="17" y="199" w="346" h="19" zOrder="5">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Post+your+total+donation+to+your+favorite+social+platform.</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="01AD8B27-9FC6-4A45-88FB-EF6D34D1E14B" controlTypeID="Icon" x="155" y="230" w="24" h="24" zOrder="6">
+      <color>4278190182</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61570</iconCode>
+      </icon>
+      <URL>4CEBA48D845888E06C868951A5E1A875.svg</URL>
+    </control>
+    <control controlID="C18C27FC-4BA3-44FD-A0C5-DD0720F87326" controlTypeID="Icon" x="207" y="230" w="24" h="24" zOrder="7">
+      <color>4278190182</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61580</iconCode>
+      </icon>
+      <URL>24B6825248D2E3B41E6A51EC7FE24971.svg</URL>
+    </control>
+    <control controlID="CF557635-85B9-4392-818A-5C0F51A87AC5" controlTypeID="Icon" x="257" y="230" w="24" h="24" zOrder="8">
+      <color>4278190182</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61812</iconCode>
+      </icon>
+      <URL>72135AC979DF27F91E0576320689AC86.svg</URL>
+    </control>
+    <control controlID="97B913B3-D967-4195-AEBA-ADB235805645" controlTypeID="Button" x="105" y="313" w="171" h="42" zOrder="9">
+      <color>4279335626</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="43787089-D2CC-498A-ABE6-0BB0DF7CC4A0" linkType="ltPageLink" isApplyIncludePage="False" title="Preference">
+          <area shape="0" alt="" ID="{8A879269-22AE-4D58-A7C3-4F0942285F7D}" coords="(0,0,171,42)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Update+Preference</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,133 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="601FAE50-7D6F-48E3-9102-C6D8EAA51F1B" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="15">
+    <control controlID="BE49F556-7E89-4D54-8E52-43889E1AC35C" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="0">
+      <color>0</color>
+      <ForegroundColor>4278190080</ForegroundColor>
+      <IsAutoTextColor>False</IsAutoTextColor>
+    </control>
+    <control controlID="F443CFE6-BD84-49C2-9CA1-0418E47C84E2" controlTypeID="Label" x="10" y="47" w="35" h="32" zOrder="1">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Me</text>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="62ADE56A-35B7-4B9F-ADAB-CE17639FFD96" controlTypeID="Label" x="10" y="117" w="155" h="24" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Breathing+Exercise</text>
+      <textColor>4284900966</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E555C91F-6FBA-4FBE-8101-89C7DC1C8D00" controlTypeID="Label" x="12" y="279" w="100" h="24" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>My+Favorite</text>
+      <textColor>4284900966</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2C012758-392C-4CAA-84B3-C89FCA0F9A59" controlTypeID="Image" x="10" y="156" w="355" h="102" zOrder="4">
+      <showText>False</showText>
+    </control>
+    <control controlID="C80684E5-C1E6-4920-A221-911E78C36F9B" controlTypeID="Icon" x="340" y="199" w="15" h="15" zOrder="5">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+    <control controlID="6E9B83A3-C9C1-43CD-A6DF-62439C1F54F9" controlTypeID="Image" x="12" y="316" w="137" h="138" zOrder="6">
+      <URL>1718B47E5B33EBC70749AFF5E4731A65.png</URL>
+    </control>
+    <control controlID="E23A8506-E9C7-46A5-920B-43F1AF1AB6CD" controlTypeID="Shape" x="12" y="453" w="137" h="47" zOrder="7">
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <borderMode>[bmLeft,bmRight,bmBottom]</borderMode>
+      <radius>4</radius>
+    </control>
+    <control controlID="43A6D955-5CAB-4053-96AE-6A857867627B" controlTypeID="Label" x="22" y="462" w="22" h="16" zOrder="8">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Nap</text>
+      <textColor>4284900966</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="389393EB-A7DE-4A91-9D4B-038CDCED8374" controlTypeID="Icon" x="112" y="463" w="24" h="24" zOrder="9">
+      <color>4292819039</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62344</iconCode>
+      </icon>
+      <URL>9DA58F6FCBD77A56BA4CDD80AFFCE333.svg</URL>
+    </control>
+    <control controlID="786EAA4E-C092-493A-8BF3-6255C72F33DD" controlTypeID="Icon" x="171" y="389" w="48" h="48" zOrder="10">
+      <color>4292335575</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62297</iconCode>
+      </icon>
+      <URL>A74ACDBBC3EE487C9CDF84F8F9700C7C.svg</URL>
+    </control>
+    <control controlID="F4851DBD-0A11-4FF4-8858-E25F621F0787" controlTypeID="Shape" x="0" y="616" w="375" h="51" zOrder="11">
+      <color>4294506487</color>
+      <borderColor>4292072145</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <borderMode>[bmTop]</borderMode>
+    </control>
+    <control controlID="9AED3E92-5A67-4257-8CFF-02AE29872928" controlTypeID="Icon" x="47" y="630" w="28" h="28" zOrder="12">
+      <color>4287287712</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62368</iconCode>
+      </icon>
+      <URL>B91434690C5B5224D1CC6B1998F1178A.svg</URL>
+    </control>
+    <control controlID="347785AB-2A97-4AB2-86F9-365E3E0B5E38" controlTypeID="Icon" x="177" y="628" w="28" h="28" zOrder="13">
+      <color>4291546059</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIcoMoonFree</iconFontName>
+        <iconCode>59850</iconCode>
+      </icon>
+      <URL>79F9DC74B945DB74B90AD63DC2BF46B5.svg</URL>
+    </control>
+    <control controlID="0337BE4F-FFDD-4E87-9C83-EC85403DB87F" controlTypeID="Icon" x="306" y="628" w="28" h="28" zOrder="14">
+      <color>4291546059</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="FED9BC6D-D032-4E42-9580-0AF3D2EEEC7E" linkType="ltPageLink" isApplyIncludePage="False" title="Settings">
+          <area shape="0" alt="" ID="{0B562DCB-0861-4F91-A309-E6FF190D9659}" coords="(0,0,28,28)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61758</iconCode>
+      </icon>
+      <URL>E33355073587308CD77F49AD22253EC2.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294506743</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

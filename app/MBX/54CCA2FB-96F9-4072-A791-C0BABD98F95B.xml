@@ -1,0 +1,133 @@
+﻿<mockup version="5.2" minAllowVersion="5.2" ID="54CCA2FB-96F9-4072-A791-C0BABD98F95B" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="14">
+    <control controlID="A49458F1-D6C5-4475-A49B-B5302ECDB326" controlTypeID="Shape" x="0" y="47" w="375" h="620" zOrder="0">
+      <color>16382457</color>
+      <font family="Segoe+UI+Light" displayName="Segoe+UI+Light" postScript="" weightStyle="Regular" weight="300" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textColor>4294967295</textColor>
+      <textSize>14</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1B824C82-5240-4875-B74B-9A49C9B6D4D5" controlTypeID="TextArea" x="20" y="190" w="335" h="85" zOrder="1">
+      <font family="Nirmala+UI" displayName="Nirmala+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Giving+from+people+like+you+is+the+most+sustainable+source+of+nonprofit+funding+in+the+world.+It+allows+organizations+to+spend+less+time+fundraising%2C+think+longer-term%2C+and+make+a+bigger+impact.</text>
+      <textColor>4284900966</textColor>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A3265218-794D-405E-93AE-3CA861AE4DCE" controlTypeID="Image" x="0" y="0" w="375" h="47" zOrder="2">
+      <URL>80F57F706A1DCB71694914CA5E299062.png</URL>
+    </control>
+    <control controlID="F27516BC-03D7-4747-A8EE-0C9747E3F186" controlTypeID="Label" x="12" y="81" w="351" h="43" zOrder="3">
+      <font family="Nirmala+UI" displayName="Nirmala+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>ROUNDUP+FOR+A+CAUSE</text>
+      <textColor>4279335626</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E8DADAB7-3BF1-411E-9D04-C23D0D5CD40D" controlTypeID="Label" x="76" y="156" w="191" h="24" zOrder="4">
+      <font family="Nirmala+UI" displayName="Nirmala+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>WHY+GIVING+MATTERS%3F</text>
+      <textColor>4279335626</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="16EEDB05-C73D-41C3-A9D7-4970A4B6F48D" controlTypeID="Label" x="79" y="298" w="176" h="24" zOrder="5">
+      <font family="Nirmala+UI" displayName="Nirmala+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>HOW+DOES+IT+WORK%3F</text>
+      <textColor>4279335626</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4B16E6A4-0A04-4111-BF78-EA6EC3F6A727" controlTypeID="TextArea" x="20" y="332" w="335" h="163" zOrder="6">
+      <font family="Nirmala+UI" displayName="Nirmala+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>1.+Select+our+vetted+nonprofit+that+you+want+your+change+to+be+donated+to.%0D%0A%0D%0A2.+RoundUp+App+will+tally+the+total+change+of+your+transactions+at+the+end+of+the+month+and+send+a+deposit+directly+to+the+selected+nonprofit.+Make+an+impact+with+little+effort.</text>
+      <textColor>4284900966</textColor>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="ADF1154D-9D0F-4949-AF18-3908770E52DA" controlTypeID="Icon" x="42" y="156" w="24" h="24" zOrder="7">
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61982</iconCode>
+      </icon>
+      <URL>F0269906D6FC464D62CB8352504081A4.svg</URL>
+    </control>
+    <control controlID="83FA3001-D95D-45B3-8E70-B748E41BAC72" controlTypeID="Icon" x="265" y="302" w="20" h="20" zOrder="8">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62628</iconCode>
+      </icon>
+      <URL>274F8E6597A0B62726A97F81B99D884E.svg</URL>
+    </control>
+    <control controlID="AC3041CE-7D2D-4A50-99B5-9B67011FEAE0" controlTypeID="IconButton2" x="150" y="550" w="75" h="75" zOrder="9">
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="400">
+        <link targetPageID="71EEFF79-4A5F-497D-9648-3AFFC92C6D23" linkType="ltPageLink" isApplyIncludePage="False" title="Log+In">
+          <area shape="0" alt="" ID="{BA818359-838C-43A0-BDAF-784CE33D88B3}" coords="(0,0,75,75)"/>
+        </link>
+      </links>
+      <groupChildrenDescriptors>
+        <control controlID="D639DA13-C753-4FCC-A15A-E5411FF031B9" controlTypeID="Shape" x="0" y="0" w="75" h="75" zOrder="0">
+          <color>1090519039</color>
+          <borderVisible>False</borderVisible>
+          <canMove>False</canMove>
+          <alias>shape</alias>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+          <shapeBorderType>SbEllipse</shapeBorderType>
+        </control>
+        <control controlID="95C1CD02-E195-4D96-B5DC-E0EA660555AE" controlTypeID="Icon" x="14" y="14" w="48" h="48" zOrder="1">
+          <color>4278229503</color>
+          <canMove>False</canMove>
+          <alias>icon</alias>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>61707</iconCode>
+          </icon>
+          <URL>F34CBDB58FF46A0F62D092E957E30719.svg</URL>
+        </control>
+        <control controlID="DB97B0FA-F224-47FA-A9F6-8A07EFC8B662" controlTypeID="Label" x="4" y="2" w="27" h="16" zOrder="2">
+          <canMove>False</canMove>
+          <alias>label</alias>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Label</text>
+          <textSize>12</textSize>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="FA93CC4A-189C-4D44-967A-F0FC091CF229" controlTypeID="Shape" x="50" y="0" w="25" h="25" zOrder="3">
+          <color>4294901760</color>
+          <borderVisible>False</borderVisible>
+          <canMove>False</canMove>
+          <alias>alarm</alias>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>2</text>
+          <textColor>4294967295</textColor>
+          <textSize>17</textSize>
+          <selectedIndex>-1</selectedIndex>
+          <radius>100</radius>
+          <radiusIsPercent>True</radiusIsPercent>
+        </control>
+      </groupChildrenDescriptors>
+      <iconSize>48</iconSize>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
